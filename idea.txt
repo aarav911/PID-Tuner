@@ -1,0 +1,15 @@
+So, the idea is that i want to tune a PID control for a system. 
+And that system is characterized by a time domain function (this can be actual data(from sensors)
+or self defined using some time domain function, or a set of impulses)... 
+
+And we want to visualize the system doing its thing, in real time... and be able to tune the 
+parameters, s.t. we can get a desired response. 
+
+So, my approach is to build the thing that makes building the main thing a lot easy... 
+
+And, lets use Raylib and python, cuz why not... 
+
+
+
+resources:
+https://share.gemini.google/EgDGDczPjfEQ
