@@ -15,4 +15,4 @@ Controller (tuned with gradient descent) ---> System (learnt from SI)
 Further, i want to improve the gradient descent algorithm, it is way too trivial.
 1. Attempt to find a global minima
 2. Run for a longer time
-3. Etc
+3. Add more advanced features to be in the implementation of the controller, for a nuanced design of the controller (for example: derivative kick avoidance, etc)
